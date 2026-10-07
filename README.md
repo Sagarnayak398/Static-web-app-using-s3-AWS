@@ -76,6 +76,8 @@ The S3 bucket will now provide a **static website endpoint**.
         }
     ]
 }
+```
+
 
 ### Step 4: Upload Website Files
 1. Open the S3 bucket.
